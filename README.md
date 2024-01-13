@@ -8,7 +8,7 @@
 #### [Website](https://aquadzn.github.io/learn-x-by-doing-y)
 
 
-You can contribute by adding projects to the CSV file. See [CONTRIBUTING.md](CONTRIBUTING.md).
+You can contribute if you want by adding projects to the CSV file. See [CONTRIBUTING.md](CONTRIBUTING.md).
 
 
 Thanks to
